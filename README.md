@@ -26,7 +26,7 @@ A simple command-line Snake Water Gun game developed using Python. The user play
 
 1. Clone the repository:
 
-git clone https://github.com/YourUsername/snake-water-gun-game.git
+git clone https://github.com/amrita243/snake-water-gun-game.git
 
 2. Navigate to the project folder:
 
